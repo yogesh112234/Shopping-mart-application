@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\bin\Debug\Bca-4-sem.exe.config
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\bin\Debug\Bca-4-sem.exe
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\bin\Debug\Bca-4-sem.pdb
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca-4-sem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.Form1.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.Properties.Resources.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca-4-sem.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca-4-sem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca-4-sem.exe
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca-4-sem.pdb
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.Login.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.singup.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.additem.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.edititems.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.viewdata.resources
+C:\Users\DELL\source\repos\Bca-4-sem\Bca-4-sem\obj\Debug\Bca_4_sem.Detailsandsearchform.resources
